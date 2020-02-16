@@ -26,3 +26,11 @@ Parameters:
 # Usage
 
 `node app.js`
+
+# Disclaimer
+* Usage of Fishbait for attacking people's accounts without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
+
+# License
+
+Fishbait is licensed under the GPLv3 license. See LICENSE for more information.
+
