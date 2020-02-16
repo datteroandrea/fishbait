@@ -27,6 +27,9 @@ Parameters:
 
 `node app.js`
 
+# Credits
+The README.md is based on an idea from [Wifiphisher](https://github.com/wifiphisher/wifiphisher/edit/master/README.md/)'s README.md check it out!
+
 # Disclaimer
 * Usage of Fishbait for attacking people's accounts without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.
 
