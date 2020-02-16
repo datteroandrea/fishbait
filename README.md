@@ -32,5 +32,5 @@ Parameters:
 
 # License
 
-Fishbait is licensed under the GPLv3 license. See LICENSE for more information.
+Fishbait is licensed under the GPLv3 license. See [LICENSE](LICENSE) for more information.
 
